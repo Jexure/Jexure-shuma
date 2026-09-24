@@ -1,0 +1,6 @@
+{
+  "name": "AI Side-Hustle Finder",
+  "description": "Discover realistic, high-potential side hustles tailored to your skills, budget, and schedule with actionable 7-day roadmaps and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
